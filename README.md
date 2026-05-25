@@ -1,2 +1,4 @@
-# myfirst_Project
+# My First Team Project
+
+> Первый командный сайт: учебный веб-проект на HTML и CSS.
 Первый сайт моей команды
